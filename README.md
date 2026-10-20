@@ -6,7 +6,7 @@ Third-year Computer Science student at Stellenbosch University (BSc, finishing N
 
 - **[SharedShots](https://sharedshots.site)** – event photo-sharing app, live on the App Store. Guests join an album by code, QR or link and upload photos from the app or straight from the browser.
 - **[FlowPilot Batch](https://github.com/zenklerjp/flowpilot-ext)** – Manifest V3 Chrome extension that runs a queue of prompts in Google Flow and saves only the new images from each one. Local-first, no backend.
-- **Business Management System** *(repo coming soon)* – Java desktop app for a small service business: clients, staff, bookings, checkout and reports on an Access database via JDBC.
+- **[Business Management System](https://github.com/zenklerjp/matric-business-manager)** – Java desktop app for a small service business: clients, staff, bookings, checkout and reports on an Access database via JDBC.
 
 ## At university
 
